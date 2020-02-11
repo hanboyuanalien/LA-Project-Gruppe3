@@ -34,7 +34,6 @@ Demo the project on [Youtube](https://youtu.be/HugeYnmyBH0)
 - SVM
 - KNN
 - Random Forest
-- XGBoost
 
 ****
 
