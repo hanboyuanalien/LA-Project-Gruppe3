@@ -31,6 +31,7 @@ Demo the project on [Youtube](https://youtu.be/HugeYnmyBH0)
 
 ## Algorithms:
 - Logistic Regression
+- (New)Logistic Regression
 - SVM
 - KNN
 - Random Forest
