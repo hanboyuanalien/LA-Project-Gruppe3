@@ -21,7 +21,7 @@ Demo the project on [Youtube](https://youtu.be/HugeYnmyBH0)
 
 
 ****
-	project architecture：
+## project architecture：
   <img width="488" alt="Screenshot 2020-02-04 at 12 11 31" src="https://user-images.githubusercontent.com/58638080/73740082-c74a3200-4747-11ea-9e69-f472d8855059.png">
   
 ****
