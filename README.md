@@ -2,6 +2,9 @@
 
 Our group uses Students' Academic Performance Dataset to predict the performance of students and make relevant suggestions to students at a later stage.
 
+Demo the project on [Youtube](https://youtu.be/HugeYnmyBH0)
+<br>
+
 
 ## Group Members:
 |Name|Task|
@@ -36,32 +39,18 @@ Our group uses Students' Academic Performance Dataset to predict the performance
 ****
 
 ## Visualizations:
-- The demographic attributes are visualized by pie chart and bar chart:
-![image](https://github.com/francisjigo2/pictures/blob/master/pie%20chart.png)
-![image](https://github.com/francisjigo2/pictures/blob/master/bar%20chart.png)
+-  The demographic part including the nationality, gender, birth of place attributes, using pie chart and bar chart to implement it:
+<img width="953" alt="1" src="https://user-images.githubusercontent.com/58638080/74273863-6c997300-4d11-11ea-8d29-f2ab1ea6f29f.png">
 
-- The academic background attributes are visualized by stacked bar chart:
-![image](https://github.com/francisjigo2/pictures/blob/master/stacked%20bar%20chart.png)
+<img width="873" alt="21" src="https://user-images.githubusercontent.com/58638080/74273872-70c59080-4d11-11ea-98e0-21a724ba3f39.png">
 
-- The behavioral attributes are visualized by box plot:
-![image](https://github.com/francisjigo2/pictures/blob/master/box%20plot.png)
+
+- The academic background including section ID, semester, grade level and other attributes, adding a new type chat- stacked bar chart to implement it:
+<img width="950" alt="31" src="https://user-images.githubusercontent.com/58638080/74273879-758a4480-4d11-11ea-9767-871a9579a352.png">
+
+
+- The behavior part has too much data and they are changed over time, so we use box plot to achieve it:
+![41](https://user-images.githubusercontent.com/58638080/74273895-791dcb80-4d11-11ea-9873-9c8ce9c7df3a.png)
 
 ------
 
-#### 效果
-
-```diff
-+ 人闲桂花落，
-- 夜静春山空。
-! 月出惊山鸟，
-# 时鸣春涧中。
-```
-
---------------------------------
-[csdn]:http://blog.csdn.net/guodongxiaren "我的博客"
-[zhihu]:https://www.zhihu.com/people/jellywong "我的知乎，欢迎关注"
-[weibo]:http://weibo.com/linpiaochen
-[baidu-logo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
-[weibo-logo]:/img/weibo.png "点击图片进入我的微博"
-[csdn-logo]:/img/csdn.png "我的CSDN博客"
-[code-past]:https://img-blog.csdnimg.cn/201908060004034.png
